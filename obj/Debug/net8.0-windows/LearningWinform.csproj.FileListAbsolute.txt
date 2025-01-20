@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\LearningWinform\bin\Debug\net8.0-windows\LearningWinform.exe
+C:\Users\Admin\source\repos\LearningWinform\bin\Debug\net8.0-windows\LearningWinform.deps.json
+C:\Users\Admin\source\repos\LearningWinform\bin\Debug\net8.0-windows\LearningWinform.runtimeconfig.json
+C:\Users\Admin\source\repos\LearningWinform\bin\Debug\net8.0-windows\LearningWinform.dll
+C:\Users\Admin\source\repos\LearningWinform\bin\Debug\net8.0-windows\LearningWinform.pdb
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.Form1.resources
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.sourcelink.json
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.dll
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\refint\LearningWinform.dll
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.pdb
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\LearningWinform.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LearningWinform\obj\Debug\net8.0-windows\ref\LearningWinform.dll
