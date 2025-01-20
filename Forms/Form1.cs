@@ -1,4 +1,4 @@
-namespace LearningWinform
+namespace LearningWinform.Forms
 {
     public partial class Form1 : Form
     {
